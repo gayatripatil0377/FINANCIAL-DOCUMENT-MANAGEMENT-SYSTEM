@@ -16,7 +16,7 @@ Users can:
 - LangChain
 - JWT Authentication
 
-Run Project
+#Run Project
 Install dependencies:
 pip install -r requirements.txt
 Run server:
