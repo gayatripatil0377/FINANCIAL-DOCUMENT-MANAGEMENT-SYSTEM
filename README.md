@@ -17,6 +17,7 @@ Users can:
 - JWT Authentication
 
 #Run Project
+
 Install dependencies:
 pip install -r requirements.txt
 Run server:
